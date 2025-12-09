@@ -49,6 +49,12 @@ El dataset final limpio utilizado en el análisis se encuentra en: [Google Drive
 - Impacto de cada festividad
 - Análisis de correlaciones 
 
+## Algunas imágenes generadas 
+![Mapa de calor correlaciones](images/HeatMap.png)
+![Outliers variables numéricas](images/box_plot_variables_numericas.png)
+![Estacionalidad mensual](images/tendencia_globa_media_movil.png)
+![Transformación logarítmica](images/box_plot_weekly_transforada_comparativa.png)
+
 ##  Resultados Principales
 - Las tiendas tipo A presentan mayores ventas promedio.
 - BlackFriday tiene el mayor impacto positivo en ventas.
